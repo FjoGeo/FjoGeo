@@ -15,7 +15,7 @@
 
 ### I am FjoGeo
 - A beginner and enthusiast in programming.
-- A Master Student in Geoinformatics. 
+- A master student in Geoinformatics. 
 - Currently learning Javascript + WebGIS and Python + Data Science.
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
