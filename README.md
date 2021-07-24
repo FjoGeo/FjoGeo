@@ -28,4 +28,4 @@
 ### 📫🤝🏻 Connect with Me
 
  - Connect with me on [LinkedIn]("#") 👨🏻‍💻
- - Shoot Me an [Email](fjodorow@protonmail.com) 💌
+ - Shoot Me an [Email](mailto:fjodorow@protonmail.com) 💌
