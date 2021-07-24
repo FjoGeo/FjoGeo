@@ -13,10 +13,10 @@
 <br />
 <img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
 
-### I am Darshan Jain
-- A Full-Stack Developer & Open Source enthusiast.
+### I am FjoGeo
+- A beginner and enthusiast in programming.
 - A Master Student in Geoinformatics. 
-- Currently learning Javascript and Data Science.
+- Currently learning Javascript + WebGIS and Python + Data Science.
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
 <h3>🛠 Tech Stack</h3>
