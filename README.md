@@ -3,7 +3,7 @@
 <a href="#">
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="#">
+<a href="https://www.linkedin.com/in/georg-fjodorow-61b611218/">
   <img align="left" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/FjoGeo">
@@ -26,5 +26,5 @@
 
 ### 📫🤝🏻 Connect with Me
 
- - Connect with me on [LinkedIn]("#") 👨🏻‍💻
+ - Connect with me on [LinkedIn]("https://www.linkedin.com/in/georg-fjodorow-61b611218/") 👨🏻‍💻
  - Shoot Me an [Email](mailto:fjodorow@protonmail.com) 💌
