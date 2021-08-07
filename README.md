@@ -14,8 +14,8 @@
 <img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
 
 ### I am FjoGeo
-- A beginner and enthusiast in programming.
-- A master student in Geoinformatics. 
+- Beginner and enthusiast in programming.
+- Student in Geoinformatics. 
 - I'm currently looking for opportunities. 
 
 <h3>🛠 Tech Stack</h3>
