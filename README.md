@@ -15,7 +15,6 @@
 
 ### I am FjoGeo
 - Beginner and enthusiast in programming.
-- Student in Geoinformatics. 
 - I'm currently looking for opportunities. 
 
 <h3>🛠 Tech Stack</h3>
