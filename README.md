@@ -20,7 +20,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Javascript | Python 
-- 🌐 &nbsp; HTML | CSS | Node.js 
+- 🌐 &nbsp; HTML | CSS 
 - 🛢 &nbsp; PostgreSQL | SQLite | MonetDB
 
 ### 📫🤝🏻 Connect with Me
