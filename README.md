@@ -15,7 +15,8 @@
 
 ### I am FjoGeo
 - Beginner and enthusiast in programming.
-- I'm currently looking for opportunities. 
+- I'm currently in my last master semester in Geoinformatics.
+- Looking for opportunities, projects, interships. 
 
 <h3>🛠 Tech Stack</h3>
 
