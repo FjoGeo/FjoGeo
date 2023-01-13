@@ -15,14 +15,12 @@
 
 ### I am FjoGeo
 - Beginner and enthusiast in programming.
-- I'm currently in my last master semester in Geoinformatics.
-- Looking for opportunities, projects, internships. 
+- Looking for opportunities, projects.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Javascript | Python 
+- 💻 &nbsp; Javascript | Python | SQL 
 - 🌐 &nbsp; HTML | CSS 
-- 🛢 &nbsp; PostgreSQL | SQLite | MonetDB
 
 ### 📫🤝🏻 Connect with Me
 
