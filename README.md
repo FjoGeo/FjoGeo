@@ -22,7 +22,7 @@
 - 💻 &nbsp; Python | SQL 
 - 🌐 &nbsp; Javascript | HTML | CSS 
 
-### 📫🤝🏻 Connect with Me
+### 📫 Connect with Me
 
  - Connect with me on <a href="https://www.linkedin.com/in/georg-fjodorow-61b611218/">LinkedIn</a>
  - Shoot Me an [Email](mailto:fjodorow@protonmail.com) 💌
