@@ -19,8 +19,8 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Javascript | Python | SQL 
-- 🌐 &nbsp; HTML | CSS 
+- 💻 &nbsp; Python | SQL 
+- 🌐 &nbsp; Javascript | HTML | CSS 
 
 ### 📫🤝🏻 Connect with Me
 
