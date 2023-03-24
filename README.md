@@ -14,7 +14,7 @@
 <img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
 
 ### I am FjoGeo
-- Beginner and enthusiast in programming.
+- Data Engineer and Tech Enthusiast.
 - Looking for opportunities, projects.
 
 <h3>🛠 Tech Stack</h3>
