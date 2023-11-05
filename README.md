@@ -14,13 +14,12 @@
 <img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
 
 ### I am FjoGeo
-- Data Engineer and Tech Enthusiast.
-- Looking for opportunities, projects.
+- Tech Enthusiast.
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | SQL | C++ (beginner)
-- 🌐 &nbsp; Javascript | HTML | CSS 
+- 🌐 &nbsp; Javascript (beginner) | HTML | CSS 
 
 ### 📫 Connect with Me
 
