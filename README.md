@@ -18,8 +18,8 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | SQL | C++ (beginner)
-- 🌐 &nbsp; Javascript (beginner) | HTML | CSS 
+- 💻 &nbsp; Python | SQL | C++ 
+- 🌐 &nbsp; Javascript| HTML | CSS 
 
 ### 📫 Connect with Me
 
