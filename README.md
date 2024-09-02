@@ -14,7 +14,7 @@
 <img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
 
 ### I am FjoGeo
-- Research Assistant in the filed of Indoor-Navigation and vSLAM.
+- Research Assistant in the filed of Geoinformatics.
 
 <h3>🛠 Tech Stack</h3>
 
