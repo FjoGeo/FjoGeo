@@ -14,12 +14,11 @@
 <img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
 
 ### I am FjoGeo
-- Research Assistant in the filed of Geoinformatics.
+- A Tech & Cybersecurity Enthusiast
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | SQL | C++ 
-- 🌐 &nbsp; Javascript| HTML | CSS 
+- 💻 &nbsp; Python | SQL | Basic (C++ , Go, JS)
 
 ### 📫 Connect with Me
 
