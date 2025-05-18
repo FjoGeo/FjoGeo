@@ -18,7 +18,8 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | SQL | Basic (C++ , Go, JS)
+- 💻 &nbsp; Python | SQL |
+- 💻 &nbsp; Basic knowledge of C++ , Go, JS
 
 ### 📫 Connect with Me
 
